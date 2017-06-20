@@ -1,5 +1,12 @@
 # higg:cache
 
+##
+
+This package is outdated and unmaintained!
+
+meteor packages should move from atlasian to npm, this is why i refactored the library to TypeScript and republished it on 
+[npm](https://www.npmjs.com/package/higg-cache#todos) and [github](https://github.com/andrehickmann/meteor-cache). Have fun using it.
+
 ## Table of contents
 
 - [Install](#install)
